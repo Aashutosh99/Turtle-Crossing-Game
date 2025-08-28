@@ -29,25 +29,12 @@ turtle-crossing-game/
 ---
 
 ## ⚙️ Setup Instructions  
-
-### 🔹 Uploading this project to GitHub  
-Run these commands in your project folder:  
-```bash
-git init
-git add .
-git commit -m "Initial commit - Turtle Crossing Game"
-git branch -M main
-git remote add origin https://github.com/Aashutosh99/my_python_projects.git
-git push -u origin main
-```
-
-
+Steps to setup
 
 ### 🔹 Cloning the project  
-Once uploaded, anyone can clone it by running:  
+
 ```bash
-git clone https://github.com/Aashutosh99/my_python_projects.git
-cd turtle-crossing-game
+git clone https://github.com/Aashutosh99/Turtle-Crossing-Game.git
 ```
 
 ### 🔹 Running the game  
